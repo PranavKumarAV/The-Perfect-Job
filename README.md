@@ -7,7 +7,11 @@ Using the person's qualities as input this algorithm tries to assign that person
 Report and dataset is uploaded, which clearly explains the project.
 
 Team members:
+
 1.Pranav Kumar A V
+
 2.Muhilan R
+
 3.Prethivan B
+
 4.Dinesh Kumar P
